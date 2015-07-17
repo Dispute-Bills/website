@@ -335,6 +335,13 @@ h2.green {
 
 
 		<section id="newsletter">
+			<style>
+				#wpcf7-f115-o2 > form > div:nth-child(3) > div > input {
+  width: 70%;
+  margin-left: 15%;
+}
+
+				</style>
 			<div class="newsletter">
 				<div class="container">
 					<div class="text-center">
